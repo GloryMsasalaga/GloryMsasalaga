@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on developing softwares both frontend and backend
 - 📫 How to reach me via my email glorymsasalaga@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i am someone who call me masikio!!!.. due to my big ears 😂😂
+- ⚡ Fun fact: i am the one they call me masikio!!!.. due to my big ears 😂😂
 
 <!---
 GloryMsasalaga/GloryMsasalaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
