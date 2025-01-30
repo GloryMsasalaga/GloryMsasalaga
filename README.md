@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GloryMsasalaga
-- 👀 I’m interested in Developing softwares and internet of things.
+- 👀 I’m interested in Developing softwares, internet of things and artificial intelligence.
 - 🌱 I’m currently learning BSc. Computer Systems and Networks from Ardhi Univeristy.
 - 💞️ I’m looking to collaborate on developing softwares both frontend and backend
 - 📫 How to reach me via my email glorymsasalaga@gmail.com
