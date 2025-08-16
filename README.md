@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GloryMsasalaga
 - 👀 I’m interested in Developing softwares, internet of things and artificial intelligence.
-- 🌱 I’m currently learning BSc. Computer Systems and Networks from Ardhi Univeristy.
+- 🌱 Just finished learning BSc. Computer Systems and Networks from Ardhi Univeristy.
 - 💞️ I’m looking to collaborate on developing softwares both frontend and backend and ai models
 - 📫 How to reach me via my email glorymsasalaga@gmail.com
 - 😄 Pronouns: she/her
