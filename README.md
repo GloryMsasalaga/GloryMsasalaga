@@ -53,7 +53,6 @@ Below are major projects I’m developing and collaborating on. If we're already
 * **Kiswahili Jarvis / Kibena** — Voice assistant focused on Swahili + local contexts (ETL pipeline, multilingual speech-to-text, intent routing).
 * **TamuTalk — Nutrition Guide** — Food database, dietary recommender, Supabase-ready CSV ingestion pipelines.
 * **Wearable Health AI** — Heart attack detection pipeline (data collection, model training, web/mobile integration).
-* **Ambulance Routing** — PostGIS-backed hospital database + dynamic routing using traffic feeds.
 * **Ad-free AI Search** — Search engine project: privacy-forward ranking + vector search.
 
 **Education / Affiliations**
