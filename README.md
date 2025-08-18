@@ -6,13 +6,6 @@ I build delightful software, IoT systems, and AI-powered solutions. I love full�
 
 ---
 
-## 🔭 What I'm working on
-
-* **Briq Solution Inc - Front-end developer
-* **Nairi Company - Back-end developer
-
----
-
 ## 🛠️ Tech stack
 
 ### Languages & Frameworks
@@ -34,7 +27,7 @@ I build delightful software, IoT systems, and AI-powered solutions. I love full�
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="56" alt="TensorFlow"/><br>TensorFlow</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="56" alt="PyTorch"/><br>PyTorch</td>
-    <td align="center"><img src="[https://vectorseek.com/vector_logo/scikit-learn-logo-vector/](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)" width="56" alt="Scikit-learn"/><br>scikit-learn</td>
+    <td align="center">![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)<br>scikit-learn</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="56" alt="pandas"/><br>pandas</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="56" alt="NumPy"/><br>NumPy</td>
   </tr>
@@ -50,19 +43,6 @@ I build delightful software, IoT systems, and AI-powered solutions. I love full�
     <td align="center"><img src="https://raw.githubusercontent.com/esp-rs/esp-idf-logo/main/esp32_logo.svg" width="56" alt="ESP32"/><br>ESP32</td>
   </tr>
 </table>
-
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![pandas](https://img.shields.io/badge/-pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-
-### DevOps, Databases & IoT
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-B7282E?style=for-the-badge\&logo=redis\&logoColor=white)
-![ESP32](https://img.shields.io/badge/-ESP32-2E8B57?style=for-the-badge\&logo=arduino\&logoColor=white)
 
 ---
 
@@ -93,3 +73,5 @@ Below are major projects I’m developing and collaborating on. If we're already
 ## ✨ Fun fact
 
 They call me **masikio** — I own my big ears with pride! 😂
+
+---
