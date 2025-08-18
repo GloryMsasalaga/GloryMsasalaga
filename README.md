@@ -40,8 +40,8 @@ I build delightful software, IoT systems, and AI-powered solutions. I love fullâ
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="56" alt="Docker"/><br>Docker</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="56" alt="PostgreSQL"/><br>PostgreSQL</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="56" alt="Redis"/><br>Redis</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/esp-rs/esp-idf-logo/main/esp32_logo.svg" width="56" alt="ESP32"/><br>ESP32</td>
-  </tr>
+<!--     <td align="center"><img src="https://raw.githubusercontent.com/esp-rs/esp-idf-logo/main/esp32_logo.svg" width="56" alt="ESP32"/><br>ESP32</td>
+  --></tr> 
 </table>
 
 ---
