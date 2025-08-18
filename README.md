@@ -33,7 +33,7 @@ I build delightful software, IoT systems, and AI-powered solutions. I love fullâ
   </tr>
 </table>
 
-### DevOps, Databases & IoT
+### DevOps & Databases  
 
 <table>
   <tr>
