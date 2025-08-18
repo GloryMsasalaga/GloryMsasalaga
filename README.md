@@ -34,7 +34,7 @@ I build delightful software, IoT systems, and AI-powered solutions. I love fullâ
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="56" alt="TensorFlow"/><br>TensorFlow</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="56" alt="PyTorch"/><br>PyTorch</td>
-    <td align="center">![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)<br>scikit-learn</td>
+    <td align="center"><img src="https://vectorseek.com/vector_logo/scikit-learn-logo-vector/" width="56" alt="Scikit-learn"/><br>scikit-learn</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="56" alt="pandas"/><br>pandas</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="56" alt="NumPy"/><br>NumPy</td>
   </tr>
