@@ -1,64 +1,59 @@
-# 👋 Hi, I’m **@GloryMsasalaga**
+# 👋 Hi, I'm Glory Msasalaga  
 
-> **She/Her** • BSc Computer Systems & Networks — Ardhi University
-
-I build delightful software, IoT systems, and AI-powered solutions. I love full‑stack work (frontend + backend) and designing ML models that solve real problems.
-
----
-
-## 🛠️ Tech stack
-
-### Languages & Frameworks
-
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="56" alt="Python"/><br>Python</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="56" alt="Django"/><br>Django</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="56" alt="JavaScript"/><br>JavaScript</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="56" alt="React"/><br>React</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="56" alt="HTML5"/><br>HTML5</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="56" alt="CSS3"/><br>CSS3</td>
-  </tr>
-</table>
-
-### Machine Learning & Data
-
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="56" alt="TensorFlow"/><br>TensorFlow</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="56" alt="PyTorch"/><br>PyTorch</td>
-    <td align="center">![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)<br>scikit-learn</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="56" alt="pandas"/><br>pandas</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="56" alt="NumPy"/><br>NumPy</td>
-  </tr>
-</table>
-
-### DevOps & Databases  
-
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="56" alt="Docker"/><br>Docker</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="56" alt="PostgreSQL"/><br>PostgreSQL</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="56" alt="Redis"/><br>Redis</td>
-<!--     <td align="center"><img src="https://raw.githubusercontent.com/esp-rs/esp-idf-logo/main/esp32_logo.svg" width="56" alt="ESP32"/><br>ESP32</td>
-  --></tr> 
-</table>
+## 🚀 About Me  
+I’m a **Software Developer & AI/ML Engineer** passionate about building intelligent systems, IoT solutions, and scalable web apps.  
+Currently exploring **system observability, RPA automation, and AI-systems applications**.  
 
 ---
 
-## 💼 Projects & Collaborations
+## 🏆 Top Skills  
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🌐 Full-stack Web Development (Django / DRF / Flutter)  
+- 📊 Data Analysis & Visualization (Python, Pandas, GIS)  
+- 🔒 Security & Auditing (CIA aspirant, compliance-focused systems)  
+- 🌍 IoT & Embedded Systems (ESP32, Raspberry Pi, AWS IoT Core)  
 
-Below are major projects I’m developing and collaborating on. If we're already working together, tell me how you'd like your name/organization displayed here.
+---
 
-* **Kiswahili Jarvis / Kibena** — Voice assistant focused on Swahili + local contexts (ETL pipeline, multilingual speech-to-text, intent routing).
-* **TamuTalk — Nutrition Guide** — Food database, dietary recommender, Supabase-ready CSV ingestion pipelines.
-* **Wearable Health AI** — Heart attack detection pipeline (data collection, model training, web/mobile integration).
-* **Ad-free AI Search** — Search engine project: privacy-forward ranking + vector search.
+## 🛠 Tech Stack  
+### Languages & Frameworks  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-**Education / Affiliations**
+### Databases & Cloud  
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
-* 🎓 Ardhi University — BSc Computer Systems & Networks
-* 🤝 Open to collaborations with startups, research groups, NGOs, and universities
+---
+
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GloryMsasalaga&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GloryMsasalaga&theme=tokyonight" alt="GitHub streak"/>
+</p>
+
+---
+
+## 📝 Short Bio  
+I bridge the gap between **AI innovation and real-world impact** by designing:  
+- 💡 **AI-powered health monitoring** (wearables, stroke & heart attack detection)  
+- 🚑 **Emergency response systems** (shortest ambulance path with live traffic)  
+- 🛡️ **Secure auditing solutions** with RPA & dashboards  
+- 🔍 **Next-gen observability platforms**  
+
+Always curious, always building.  
+
+---
+
+* 🤝 Open to collaborations with startups, research groups, NGOs, organization, companies
 
 ---
 
