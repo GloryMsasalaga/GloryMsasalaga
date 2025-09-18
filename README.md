@@ -41,7 +41,6 @@ Currently exploring **system observability, RPA automation, and AI-systems appli
   <img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-4EABC2?style=for-the-badge&logoColor=white"/>
 </p>
----
 
 ## 📈 GitHub Stats  
 <p align="center">
