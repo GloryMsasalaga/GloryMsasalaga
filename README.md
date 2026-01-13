@@ -44,8 +44,10 @@ Currently exploring **system observability, RPA automation, and AI-systems appli
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GloryMsasalaga&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GloryMsasalaga&theme=tokyonight" alt="GitHub streak"/>
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GloryMsasalaga&show_icons=true&theme=tokyonight)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=GloryMsasalaga&theme=tokyonight)
+
 </p>
 
 
