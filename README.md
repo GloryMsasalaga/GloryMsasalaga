@@ -52,9 +52,9 @@ Currently exploring **system observability, RPA automation, and AI-systems appli
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GloryMsasalaga&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
 </div>
 
-<div align="center">
+<!--div align="center">
   <img src="https://streak-stats.demolab.com/?user=GloryMsasalaga&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+</div--->
 
 ---
 
