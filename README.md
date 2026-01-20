@@ -4,17 +4,6 @@
 I'm a **Software Developer & AI/ML Engineer** passionate about building intelligent systems, IoT solutions, and scalable web apps.  
 Currently exploring **system observability, RPA automation, and AI-systems applications**.
 
----
-
-## 🏆 Top Skills
-- 🤖 Artificial Intelligence & Machine Learning
-- 🌐 Full-stack Web Development (Django / DRF / Flutter)
-- 📊 Data Analysis & Visualization (Python, Pandas, GIS)
-- 🔒 Security & Auditing (CIA aspirant, compliance-focused systems)
-- 🌍 IoT & Embedded Systems (ESP32, Raspberry Pi, AWS IoT Core)
-
----
-
 ## 🛠 Tech Stack
 
 ### Languages & Frameworks
